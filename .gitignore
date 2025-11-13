@@ -1,2 +1,31 @@
+# Node.js
 node_modules/
+npm-debug.log
+yarn-error.log
+
+# Variáveis de ambiente
 .env
+
+# Logs
+logs/
+*.log
+debug.log
+
+# Sistema
+.DS_Store
+Thumbs.db
+
+# Cache temporário
+*.tmp
+.cache/
+dist/
+build/
+
+# IDEs e editores
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Sistema de versão (segurança extra)
+*.orig
